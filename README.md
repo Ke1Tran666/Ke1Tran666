@@ -56,8 +56,8 @@
 
 ### 🌐 Personal Portfolio
 
-* Responsive design, clean layout
-* Focus on user experience
+* Responsive portfolio website
+* Clean UI, modern layout
   👉 https://ke1tran666.github.io/portfolio/
 
 ---
@@ -66,9 +66,16 @@
 
 * Spring Boot REST API
 * CRUD operations
-* Backend structure & data flow
+  👉 (Updating soon...)
 
-👉 (Updating soon...)
+---
+
+## 📁 Other Projects
+
+* 🖥️ Garment design landingPage - html, css, js
+
+👉 View more: https://github.com/Ke1Tran666
+
 
 ---
 
